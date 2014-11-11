@@ -18,3 +18,17 @@ The source code contains the following projects:
 |**Clayster**                     | Contains libraries that facilitate data persistence, event logging, communication, localization and scripting.|
 
 Projects are developed in C# and compiled using [Xamarin](http://xamarin.com/). They are executed on Raspberry Pi using [MONO](http://www.mono-project.com/). By modifying the classes in Clayster.Library.RaspberryPi, the code can be made to run on other hardware platforms as well. This library is the only library that contains code specifically written for the Raspberry Pi.
+
+Chapters of the book:
+
+| Chapter | Title                         | Source Code |
+|         | Preface                       | N/A |
+| 1       | Preparing our IoT projects    | N/A |
+| 2       | The HTTP Protocol             | [Learning-IoT-HTTP](https://github.com/Clayster/Learning-IoT-HTTP) |
+| 3       | The UPnP Protocol             | [Learning-IoT-UPnP](https://github.com/Clayster/Learning-IoT-UPnP) |
+| 4       | The CoAP Protocol             | [Learning-IoT-CoAP](https://github.com/Clayster/Learning-IoT-CoAP) |
+| 5       | The MQTT Protocol             | [Learning-IoT-MQTT](https://github.com/Clayster/Learning-IoT-MQTT) |
+| 6       | The XMPP Protocol             | [Learning-IoT-XMPP](https://github.com/Clayster/Learning-IoT-XMPP) |
+| 7       | Using an IoT Service Platform | [Learning-IoT-IoTPlatform](https://github.com/Clayster/Learning-IoT-IoTPlatform) |
+| 8       | Creating protocol gateways    | [Learning-IoT-Gateway](https://github.com/Clayster/Learning-IoT-Gateway) |
+| 9       | Security and Interoperability | N/A |

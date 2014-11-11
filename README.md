@@ -22,6 +22,7 @@ Projects are developed in C# and compiled using [Xamarin](http://xamarin.com/). 
 Chapters of the book:
 
 | Chapter | Title                         | Source Code |
+| ------- | ----------------------------- | ----------- |
 |         | Preface                       | N/A |
 | 1       | Preparing our IoT projects    | N/A |
 | 2       | The HTTP Protocol             | [Learning-IoT-HTTP](https://github.com/Clayster/Learning-IoT-HTTP) |

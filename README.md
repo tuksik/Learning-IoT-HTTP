@@ -8,7 +8,7 @@ This chapter covers the basics of the HTTP protocol. It also shows how to use HT
 The source code contains the following projects:
 
 |Project                          | Description|
-| ------------------------------- | ---------- |
+|:------------------------------- |:---------- |
 |**Actuator**                     | The actuator project. Controlls a sequence of digital outputs as well as an alarm output.|
 |**Controller**                   | The controller project. Controls the actuator based on input received from the sensor.|
 |**Sensor**                       | The sensor project. Measures and logs temperature, light and movement.|
@@ -22,7 +22,7 @@ Projects are developed in C# and compiled using [Xamarin](http://xamarin.com/). 
 Chapters of the book:
 
 | Chapter | Title                         | Source Code |
-| ------- | ----------------------------- | ----------- |
+| -------:|:----------------------------- |:-----------:|
 |         | Preface                       | N/A |
 | 1       | Preparing our IoT projects    | N/A |
 | 2       | The HTTP Protocol             | [Learning-IoT-HTTP](https://github.com/Clayster/Learning-IoT-HTTP) |

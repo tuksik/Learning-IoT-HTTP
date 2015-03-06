@@ -33,7 +33,3 @@ Chapters of the book:
 | 7       | Using an IoT Service Platform | [Learning-IoT-IoTPlatform](https://github.com/Clayster/Learning-IoT-IoTPlatform) |
 | 8       | Creating protocol gateways    | [Learning-IoT-Gateway](https://github.com/Clayster/Learning-IoT-Gateway) |
 | 9       | Security and Interoperability | N/A |
-<<<<<<< HEAD
-
-=======
->>>>>>> origin/master
